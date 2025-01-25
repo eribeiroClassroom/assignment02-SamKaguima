@@ -15,6 +15,6 @@ cd kern/conf/
 ./config DUMBVM
 ```
 
-
+![image](Screenshot 2025-01-25 131410.png)
 
 
